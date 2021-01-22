@@ -1,6 +1,6 @@
 ## Buchada de Bode
 
-<img src="https://i.pinimg.com/originals/ad/12/59/ad1259c045f31de026bb710e2a2b460f.jpg" style="zoom:20%;" />
+<img src="https://i.pinimg.com/originals/ad/12/59/ad1259c045f31de026bb710e2a2b460f.jpg" style="zoom:50%;" />
 
 ### Ingredientes
 
