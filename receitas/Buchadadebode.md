@@ -1,6 +1,6 @@
 ## Buchada de Bode
 
-<img src="C:\Users\Sabrina e Renata\Desktop\Em curso\bucho.jpg" style="zoom:40%;" />
+<img src="https://i.pinimg.com/originals/ad/12/59/ad1259c045f31de026bb710e2a2b460f.jpg" style="zoom:50%;" />
 
 ### Ingredientes
 
@@ -32,4 +32,12 @@
 10. Em seguida, na panela que contém a buchada, coloque as trouxinhas envoltas em tripa, regue com azeite e adicione água em temperatura ambiente até cobrir por completo os travesseirinhos.
 11. Deixe cozinhar por uma hora em fogo baixo.
 12. Sirva em seguida.
+
+
+
+### Fontes:
+
+[Como fazer buchada de bode | Receitas | Receitas (globo.com)](https://receitas.globo.com/como-fazer-buchada-de-bode-gnt.ghtml)
+
+[Pin em eHow Brasil (pinterest.com)](https://br.pinterest.com/pin/374995106463565266/)
 

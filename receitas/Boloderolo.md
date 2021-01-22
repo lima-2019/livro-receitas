@@ -1,6 +1,6 @@
 ## Bolo de Rolo
 
-<img src="C:\Users\Sabrina e Renata\Desktop\Em curso\bolo-de-rolo-1.jpg" style="zoom:70%;" />
+<img src="https://oaprendizdecozinheiro.files.wordpress.com/2012/02/bolo-de-rolo.jpg" style="zoom:100%;" />
 
 ### Ingredientes
 
@@ -40,3 +40,11 @@
 3. Asse o segundo bolo passe o receheio e enrole com o primeiro bolo, faça o mesmo procedimento com toda massa dá mais ou menos 5 bolos.
 4. por último povilhe com açúcar.
 5. *Espalhe bem fina a massa na forma.*
+
+
+
+### Fonte:
+
+[Bolo de Rolo de Goiabada | Aprendiz de Cozinheiro (wordpress.com)](https://oaprendizdecozinheiro.wordpress.com/2012/02/08/bolo-de-rolo-de-goiabada/)
+
+[Receita de Bolo de rolo de Recife, enviada por Silvana Roberto - TudoGostoso](https://www.tudogostoso.com.br/receita/15246-bolo-de-rolo-de-recife.html)
