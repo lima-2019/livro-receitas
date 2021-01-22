@@ -1,4 +1,4 @@
-# Livro de Receitas Nordestinas :sun_with_face:
+# Livro de Receitas Nordestinas :yum:
 
 Olá, neste livro você encontrará um complicado de receitas dos estados do nordeste
 
@@ -8,4 +8,3 @@ Olá, neste livro você encontrará um complicado de receitas dos estados do nor
 - Buchada de Bode
 - Casquinho de Siri
 - Bolo de rolo
-
