@@ -1,6 +1,6 @@
 ## Casquinho de Siri
 
-<img src="https://www.saborosaviagem.com.br/wp-content/uploads/2018/03/siri.jpg" style="zoom:60%;" />
+<img src="https://www.saborosaviagem.com.br/wp-content/uploads/2018/03/siri.jpg" style="zoom:40%;" />
 
 ### Ingredientes
 
