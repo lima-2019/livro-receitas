@@ -1,8 +1,8 @@
 
 
-## Aprendendo a usar Git e Github
+## Aprendendo a usar Git e Github  \o/
 
-# Livro de Receitas Nordestinas :yum:
+# Livro de Receitas Nordestinas :yum: 
 
 Olá, neste livro você encontrará um complicado de receitas dos estados do nordeste
 
@@ -11,4 +11,4 @@ Olá, neste livro você encontrará um complicado de receitas dos estados do nor
 - Arrumadinho de Charque
 - Buchada de Bode
 - Casquinho de Siri
-- Bolo de rolo
+- Bolo de rolo 
